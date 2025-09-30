@@ -34,6 +34,6 @@
 
 ---
 
-## 📷 앱 스크린샷
-<img width="300dp" height="500dp" alt="image" src="https://github.com/user-attachments/assets/12cf9f46-b11b-49dd-9217-5cabc5623836" />
+## 📷 앱 사진
+<img width="500dp" height="500dp" alt="image" src="https://github.com/user-attachments/assets/12cf9f46-b11b-49dd-9217-5cabc5623836" />
 
