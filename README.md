@@ -23,7 +23,6 @@
 - GPS 및 위치 서비스
 - OpenWeather API (날씨 데이터)
 - 사용자 친화적 UI/UX
-
 ---
 
 ## 💡 향후 업데이트 예정
@@ -35,5 +34,5 @@
 ---
 
 ## 📷 앱 사진
-<img width="300dp" height="500dp" alt="image" src="https://github.com/user-attachments/assets/12cf9f46-b11b-49dd-9217-5cabc5623836" />
+<img width="200dp" height="500dp" alt="image" src="https://github.com/user-attachments/assets/12cf9f46-b11b-49dd-9217-5cabc5623836" />
 
