@@ -35,10 +35,7 @@
 ---
 
 ## 📷 앱 스크린샷
-
-> (여기에 앱 화면 이미지 몇 장을 첨부하면 좋습니다)
+<img width="591" height="1280" alt="image" src="https://github.com/user-attachments/assets/12cf9f46-b11b-49dd-9217-5cabc5623836" />
 
 ---
-
-## 📂 프로젝트 구조
 
