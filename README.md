@@ -19,7 +19,7 @@
 
 ## 🌐 사용 기술
 
-- Android (Java/Kotlin)
+- Android (Java)
 - GPS 및 위치 서비스
 - OpenWeather API (날씨 데이터)
 - 사용자 친화적 UI/UX
